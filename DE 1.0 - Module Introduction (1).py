@@ -7,7 +7,7 @@
 
 # COMMAND ----------
 
-print('hi')
+print('hello')
 
 # COMMAND ----------
 
