@@ -7,6 +7,10 @@
 
 # COMMAND ----------
 
+print('hi')
+
+# COMMAND ----------
+
 # DBTITLE 0,--i18n-001a833c-5553-41e6-83fa-1bb6d6f5f585
 # MAGIC %md
 # MAGIC ## Introduction to the Databricks Workspace for Data Engineers
